@@ -6,7 +6,7 @@
     <% @article.errors.full_messages.each do |msg| %>
       <li><%= msg %></li>
     <% end %>
-  <ul>
+  </ul>
 <% end %>
 
 <%= form_with scope: :article, url: articles_path, local: true do |f| %>
