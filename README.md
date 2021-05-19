@@ -21,4 +21,7 @@ Things you may want to cover:
 
 * Deployment instructions
 
+* Live URL
+  * https://alpha-blog-0624.herokuapp.com/
+
 * ...
